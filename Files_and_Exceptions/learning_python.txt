@@ -1,0 +1,6 @@
+In Python, You can store data in things called variables
+In Python, you can also create functions to do one task
+In Python, you can use loops to automate tasks
+In Python, you can use a class to model real world problems
+In Python, you can interact with the user with user input
+In Python, if-statements allow your program to make decisions
