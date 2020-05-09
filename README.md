@@ -1,2 +1,2 @@
 # Code-for-Python-Crash-Course
-Just the code and projects that I did from the Python Crash Course study guide
+Code and projects I created whlie following Python Crash Course by Eric Matthes
